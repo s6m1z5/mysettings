@@ -1,0 +1,3 @@
+hello, vim!
+this is a test message.
+try editing .vimrc!
